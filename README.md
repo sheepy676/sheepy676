@@ -1,9 +1,9 @@
 -  Hi, I’m @sheepy676 You can Call me Sheepy though.
 -  I’m interested in the source engine
 -  I’m currently learning C++
+- Pronouns: they/them
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
-- Pronouns: they/them
 <!--- - ⚡ Fun fact: ---> 
 
 <!---
