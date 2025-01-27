@@ -1,6 +1,6 @@
--  Hi, I’m @sheepy676 You can Call me Sheepy though.
--  I’m interested in the source engine
--  I’m currently learning C++
+-  Hello, I'm Sheepy.
+-  I’m interested in the source engine and portal 2
+-  I’m currently learning C and squirrel
 - Pronouns: they/them
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
